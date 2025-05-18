@@ -1,0 +1,9 @@
+Django
+pillow
+django-cleanup
+django-allauth
+django-htmx
+channels-redis
+langchain
+langgraph
+langchain-google-genai
